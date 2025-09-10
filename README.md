@@ -21,9 +21,7 @@ The Serverless Voting Application is a cloud-native application that leverages s
 - AWS CloudWatch
 - Infrastructure as Code (IaC) with AWS (Server Application Model) SAM
 
-## Preview
 
-![Serverless Voting Application Preview](https://github.com/CodeVinayak/Serverless-Voting-Application/blob/f439157f202e345d90a606cd46bcff9e594a48fa/public/Preview.gif)
 
 ## Getting Started
 
@@ -32,4 +30,4 @@ The Serverless Voting Application is a cloud-native application that leverages s
 3. Configure AWS credentials and required services
 4. Deploy the application using AWS
 
-### Created by Vinayak Kumar Singh  ❤️
+### Created by R.
